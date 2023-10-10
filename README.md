@@ -2,7 +2,7 @@
 
 [![npm version](https://img.shields.io/npm/v/gogocode.svg)](https://www.npmjs.com/package/gogocode) [![license](https://img.shields.io/npm/l/gogocode.svg)](LICENSE) 
 
-[>>>>>>>>>>>>>>>>>>>阿里前端招聘啦~ ](https://talent.taotian.com/off-campus/position-detail?lang=zh&positionId=1019223&track_id=SSP1691116011187KXRTJqqMmf1253)
+[>>>>>>>>>>>>>>>>>>>阿里前端招聘已结束。 ](https://talent.taotian.com/off-campus/position-detail?lang=zh&positionId=1019223&track_id=SSP1691116011187KXRTJqqMmf1253)
 
 ## What is GoGoCode?
 
@@ -67,7 +67,7 @@ Try this demo out at our [Playground](https://play.gogocode.io/#code/N4IglgdgDgr
 [gogocode-playground]: https://play.gogocode.io
 [gogocode-vscode]: https://marketplace.visualstudio.com/items?itemName=mmfe.vscode-gogocode
 
-## Support
+## Support 废弃
 
 -   [issues](https://github.com/thx/gogocode/issues)
 -   Ding Group：34266233
